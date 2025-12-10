@@ -1,0 +1,26 @@
+Banking-system
+
+BankSystem:
+    -Manages instances from the class Person and Girocard
+    -Creates Instances from the class Person and Girocard
+    -Creates Girocard and assigns it to a Person
+
+
+Person:
+    -Name
+    -Date of Birth
+    -Age (auto calculated)
+    -Occupation
+    -Girocard
+
+Girocard:
+    -Name
+    -Company
+    -Expiration Date
+    -IBAN (auto generated)
+    -PIN (auto generated)
+    -Balance
+    -Extract/Deposit
+    -Transfer
+    -Banking history
+
