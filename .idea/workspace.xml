@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20bc05be-3b66-4b04-bff5-30dcd534d34e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BankSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankSystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Blueprint/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Girocard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
+    <list default="true" id="20bc05be-3b66-4b04-bff5-30dcd534d34e" name="Changes" comment="Almost finished notes">
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blueprint/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/Blueprint/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Girocard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Girocard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;h1nnan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/h1nnan/BankSystem.git&quot;,
+    &quot;accountId&quot;: &quot;1b867a6a-d4e0-4e78-99dc-14c603f13654&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -45,6 +52,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -76,9 +84,22 @@
       <updated>1765403379546</updated>
       <workItem from="1765403380703" duration="609000" />
     </task>
+    <task id="LOCAL-00001" summary="Almost finished notes">
+      <option name="closed" value="true" />
+      <created>1765406765627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765406765627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Almost finished notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Almost finished notes" />
   </component>
 </project>

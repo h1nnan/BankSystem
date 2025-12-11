@@ -1,6 +1,10 @@
 Banking-system
 
+Main:
+    -Main
+
 BankSystem:
+
     -Manages instances from the class Person and Girocard
     -Creates Instances from the class Person and Girocard
     -Creates Girocard and assigns it to a Person
