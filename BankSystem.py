@@ -4,8 +4,8 @@ import Girocard
 class BankSystem (Person, Girocard):
 
 
-    def createAccount(self):
-        pass
+    def createAccount(self, firstName, lastName, dateOfBirth, occupation, password,username):
+        account = Person.Person(firstName, lastName, dateOfBirth, occupation, password,username)
 
     def aquireGirocard(self):
         pass

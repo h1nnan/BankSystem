@@ -34,10 +34,10 @@ class Girocard:
 
         return PIN
 
-    def __init__(self, username, balance):
+    def __init__(self, username):
         self.username = username
         self.company = "Mastercard"
-        self.balance = balance
+        self.balance = 00.00
         self.IBAN = self.createIBAN()
         self.PIN = self.createPIN()
         self.expirationDate = self.createExpirationDate()

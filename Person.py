@@ -9,16 +9,20 @@ class Person (Girocard):
         age = today - datetime.date(int(year), int(month), int(day))
         return age
 
-    def __init__(self, firstName, lastName, dateOfBirth, occupation, username, balance):
+    def __init__(self, firstName, lastName, dateOfBirth, occupation, username,password):
 
-        super().__init__(username, balance)
+        super().__init__(username)
         self.firstName = firstName
         self.lastName = lastName
         self.dateOfBirth = dateOfBirth
         self.age = self.age(self.dateOfBirth)
         self.occupation = occupation
-        self.girocard = Girocard(username, balance)
+        self.girocard = Girocard(username)
         self.transfer = False
+        self.password = password
+
+    def setUsername(self, username):
+        self.username = username
 
     def setTransfer(self, transfer):
         self.transfer = transfer
@@ -58,3 +62,6 @@ class Person (Girocard):
 
     def getTransfer(self):
         return self.transfer
+
+    def getPassword(self):
+        return self.password
