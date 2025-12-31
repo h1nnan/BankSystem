@@ -65,3 +65,9 @@ class Person (Girocard):
 
     def getPassword(self):
         return self.password
+
+    def getGirocard(self, username):
+        return self.girocard
+
+    def setGirocard(self, username: object, balance: object) -> None:
+        self.girocard = Girocard(username)

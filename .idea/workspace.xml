@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20bc05be-3b66-4b04-bff5-30dcd534d34e" name="Changes" comment="Finished classes Person and Girocard as well as the apprx. frame of the class BankSystem">
+    <list default="true" id="20bc05be-3b66-4b04-bff5-30dcd534d34e" name="Changes" comment="createAccount(...) method defined and initialised">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765473376062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished classes Person and Girocard as well as the apprx. frame of the class BankSystem">
+      <option name="closed" value="true" />
+      <created>1765656930482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765656930482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Almost finished notes" />
     <MESSAGE value="Finished classes Person and Girocard as well as the apprx. frame of the class BankSystem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished classes Person and Girocard as well as the apprx. frame of the class BankSystem" />
+    <MESSAGE value="createAccount(...) method defined and initialised" />
+    <option name="LAST_COMMIT_MESSAGE" value="createAccount(...) method defined and initialised" />
   </component>
 </project>
