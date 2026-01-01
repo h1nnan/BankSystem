@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20bc05be-3b66-4b04-bff5-30dcd534d34e" name="Changes" comment="createAccount(...) method defined and initialised">
+    <list default="true" id="20bc05be-3b66-4b04-bff5-30dcd534d34e" name="Changes" comment="still a work in progress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BankSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/BankSystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765656930482</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="still a work in progress">
+      <option name="closed" value="true" />
+      <created>1767223727028</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767223727028</updated>
+    </task>
+    <task id="LOCAL-00005" summary="still a work in progress">
+      <option name="closed" value="true" />
+      <created>1767223744020</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767223744020</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +131,7 @@
     <MESSAGE value="Almost finished notes" />
     <MESSAGE value="Finished classes Person and Girocard as well as the apprx. frame of the class BankSystem" />
     <MESSAGE value="createAccount(...) method defined and initialised" />
-    <option name="LAST_COMMIT_MESSAGE" value="createAccount(...) method defined and initialised" />
+    <MESSAGE value="still a work in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="still a work in progress" />
   </component>
 </project>
